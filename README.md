@@ -18,11 +18,8 @@ Você pode executar este código:
 2. No Google Colab (site oficial: https://colab.research.google.com).
 
 ### Passos para rodar localmente
-1. Salve o código em um arquivo chamado `quiz.py`.
-2. Abra o terminal e execute:
-   ```
-   python quiz.py
-   ```
+1. Salve o código em um arquivo chamado `the_python_developer_challenge.py`.
+2. Abra o terminal e execute: python3 the_python_developer_challenge.py
 
 ### Passos para rodar no Google Colab
 1. Crie um novo notebook.
@@ -50,4 +47,3 @@ Você pode executar este código:
 18. def
 19. list
 20. if
-
